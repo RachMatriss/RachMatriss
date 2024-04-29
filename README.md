@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate software engineer from Algeria</h3>
 
-- 🔭 I’m currently student on [42wolfsburg Software Engineering School](https://42wolfsburg.de/)
+- 🔭 I’m currently student on [ Software Engineering School](https://42wolfsburg.de/)
 
 - 💬 Ask me about **C, PHP, Yii2 Framework**
 
