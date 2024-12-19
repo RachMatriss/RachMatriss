@@ -1,4 +1,4 @@
-### <p align=center> Hi there 👋  I'm Rachid </p>
+### <p align=center> Hi there 👋  I'm Rachid Medjrab</p>
 
 <!--
 **RachMatriss/RachMatriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **C, PHP, Yii2 Framework**
 
-- 📫 Reach me at **rachidmatriss21@gmail.com**
+- 📫 Reach me at **rachidmedjrab21@gmail.com**
 
 - ⚡ Fun fact **i like happy people**
 
